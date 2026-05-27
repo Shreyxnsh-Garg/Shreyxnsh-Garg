@@ -2,16 +2,16 @@
 
 # 💫 About Me:
 
-💻 Interested in Web Development and Software Development<br><br>
-📖 Currently learning Full Stack Development<br><br>
-🚀 Exploring Open Source and Real World Projects<br><br>
+💻 Interested in Web Development and Software Development<br>
+📖 Currently learning Full Stack Development<br>
+🚀 Exploring Open Source and Real World Projects<br>
 ⚡ Always curious to learn new technologies
 
 # 🏆 Competitive Programming:
 
-💡 Passionate about problem solving and improving algorithmic thinking<br><br>
-🔹 Regularly practice coding problems on Codeforces and other platforms<br><br>
-📈 Focused on strengthening DSA and competitive programming skills<br><br>
+💡 Passionate about problem solving and improving algorithmic thinking<br>
+🔹 Regularly practice coding problems on Codeforces and other platforms<br>
+📈 Focused on strengthening DSA and competitive programming skills<br>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/shreyansh7952)
 
